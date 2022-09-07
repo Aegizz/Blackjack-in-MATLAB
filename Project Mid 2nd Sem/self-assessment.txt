@@ -1,0 +1,23 @@
+Conceptual coverage
+20/20pts
+Use conditionals, vectors/matrices/arrays, loops, I/O, function, reads input friendly, displays output with ASCII art, etc.
+
+Value-add
+20/20pts 
+Functionality is perfect, able to explain the nuances of the subject and is creative about the execution and coding of the script to peform an accurate representation of blacjack with the potential for further modiciation give an 
+purpose e.g. card counting, expansion of scripts into a full casino, Uses custom made ASCII art function.
+
+Incremental Development
+20/20pts
+Complete evidence of using a variety of different comments showing rethinking when creating the script and implementing the functions together and developing a function each time.
+
+Testing
+17/20pts
+Testing at multiple points of the programm but overally basic and no large variety of different kinds of testing. Test cases could be in greater variety
+
+Comments and Style
+17/20pts
+Code exhibits perfect style expect for some version with minimal lapses that were reviewed and changed. 
+
+
+
