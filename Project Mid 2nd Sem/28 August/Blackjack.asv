@@ -1,0 +1,12 @@
+
+
+numPlayers = input("How many players are playing? ");
+numDecks = input("How many decks would you like to play with? ");
+play = true;
+while play == true
+    playBlackjack(numPlayers,numDecks);
+    playAgain= input("Play again?\n");
+    
+    switch(playAgain)
+        case "Yes"
+            play == true
